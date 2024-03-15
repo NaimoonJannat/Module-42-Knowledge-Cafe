@@ -1,0 +1,66 @@
+[
+    {
+      "title": "The Hidden Gem of Time",
+      "cover_img": "https://ibb.co/tXsnyKV",
+      "author": "Evelyn D. Smith",
+      "author_img": "https://ibb.co/8jbYYVF",
+      "reading_time": 12,
+      "published_date": "2024-03-15",
+      "hashtags": ["fantasy", "adventure", "mystery"]
+    },
+    {
+      "title": "Beyond the Horizon",
+      "cover_img": "https://ibb.co/51TcMX6",
+      "author": "Alexander K. Pierce",
+      "author_img": "https://ibb.co/8jbYYVF",
+      "reading_time": 8,
+      "published_date": "2024-03-14",
+      "hashtags": ["sci-fi", "exploration", "future"]
+    },
+    {
+      "title": "Echoes of Silence",
+      "cover_img": "https://ibb.co/F5Y4tF3",
+      "author": "Megan R. Harris",
+      "author_img": "https://ibb.co/8jbYYVF",
+      "reading_time": 10,
+      "published_date": "2024-03-13",
+      "hashtags": ["drama", "romance", "relationships"]
+    },
+    {
+      "title": "Shadows in the Mist",
+      "cover_img": "https://ibb.co/F6N82QF",
+      "author": "Daniel J. Thompson",
+      "author_img": "https://ibb.co/8jbYYVF",
+      "reading_time": 15,
+      "published_date": "2024-03-12",
+      "hashtags": ["mystery", "suspense", "detective"]
+    },
+    {
+      "title": "Whispers of Destiny",
+      "cover_img": "https://ibb.co/BTdj0v3",
+      "author": "Emily S. Carter",
+      "author_img": "https://ibb.co/8jbYYVF",
+      "reading_time": 9,
+      "published_date": "2024-03-11",
+      "hashtags": ["fantasy", "magic", "fate"]
+    },
+    {
+      "title": "Threads of Eternity",
+      "cover_img": "https://ibb.co/51TcMX6",
+      "author": "Nathan A. Wilson",
+      "author_img": "https://ibb.co/8jbYYVF",
+      "reading_time": 11,
+      "published_date": "2024-03-10",
+      "hashtags": ["science", "philosophy", "time"]
+    },
+    {
+      "title": "Infinite Possibilities",
+      "cover_img": "https://ibb.co/51TcMX6",
+      "author": "Sophia L. Evans",
+      "author_img": "https://example.com/sophia_evans.jpg",
+      "reading_time": 13,
+      "published_date": "2024-03-09",
+      "hashtags": ["fiction", "imagination", "dreams"]
+    }
+  ]
+  
