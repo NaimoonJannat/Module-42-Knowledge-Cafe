@@ -1,66 +1,73 @@
 [
     {
       "title": "The Hidden Gem of Time",
-      "cover_img": "https://ibb.co/tXsnyKV",
+      "cover_img": "https://blog.hubspot.com/hubfs/facebook%20cover%20photo%20size.jpg",
       "author": "Evelyn D. Smith",
       "author_img": "https://ibb.co/8jbYYVF",
       "reading_time": 12,
       "published_date": "2024-03-15",
-      "hashtags": ["fantasy", "adventure", "mystery"]
+      "hashtags": ["fantasy", "adventure", "mystery"],
+      "id": 1
     },
     {
       "title": "Beyond the Horizon",
-      "cover_img": "https://ibb.co/51TcMX6",
+      "cover_img": "https://plus.unsplash.com/premium_photo-1684581214880-2043e5bc8b8b?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmxvZyUyMGNvdmVyfGVufDB8fDB8fHww",
       "author": "Alexander K. Pierce",
       "author_img": "https://ibb.co/8jbYYVF",
       "reading_time": 8,
       "published_date": "2024-03-14",
-      "hashtags": ["sci-fi", "exploration", "future"]
+      "hashtags": ["sci-fi", "exploration", "future"],
+      "id": 2
     },
     {
       "title": "Echoes of Silence",
-      "cover_img": "https://ibb.co/F5Y4tF3",
+      "cover_img": "https://blog.hubspot.com/hubfs/facebook%20cover%20photo%20size.jpg",
       "author": "Megan R. Harris",
       "author_img": "https://ibb.co/8jbYYVF",
       "reading_time": 10,
       "published_date": "2024-03-13",
-      "hashtags": ["drama", "romance", "relationships"]
+      "hashtags": ["drama", "romance", "relationships"],
+      "id": 3
     },
     {
       "title": "Shadows in the Mist",
-      "cover_img": "https://ibb.co/F6N82QF",
+      "cover_img": "https://blog.hubspot.com/hubfs/facebook%20cover%20photo%20size.jpg",
       "author": "Daniel J. Thompson",
       "author_img": "https://ibb.co/8jbYYVF",
       "reading_time": 15,
       "published_date": "2024-03-12",
-      "hashtags": ["mystery", "suspense", "detective"]
+      "hashtags": ["mystery", "suspense", "detective"],
+      "id": 4
     },
     {
       "title": "Whispers of Destiny",
-      "cover_img": "https://ibb.co/BTdj0v3",
+      "cover_img": "https://blog.hubspot.com/hubfs/facebook%20cover%20photo%20size.jpg",
       "author": "Emily S. Carter",
       "author_img": "https://ibb.co/8jbYYVF",
       "reading_time": 9,
       "published_date": "2024-03-11",
-      "hashtags": ["fantasy", "magic", "fate"]
+      "hashtags": ["fantasy", "magic", "fate"],
+      "id": 5
     },
     {
       "title": "Threads of Eternity",
-      "cover_img": "https://ibb.co/51TcMX6",
+      "cover_img": "https://blog.hubspot.com/hubfs/facebook%20cover%20photo%20size.jpg",
       "author": "Nathan A. Wilson",
       "author_img": "https://ibb.co/8jbYYVF",
       "reading_time": 11,
       "published_date": "2024-03-10",
-      "hashtags": ["science", "philosophy", "time"]
+      "hashtags": ["science", "philosophy", "time"],
+      "id": 6
     },
     {
       "title": "Infinite Possibilities",
-      "cover_img": "https://ibb.co/51TcMX6",
+      "cover_img": "https://blog.hubspot.com/hubfs/facebook%20cover%20photo%20size.jpg",
       "author": "Sophia L. Evans",
       "author_img": "https://example.com/sophia_evans.jpg",
       "reading_time": 13,
       "published_date": "2024-03-09",
-      "hashtags": ["fiction", "imagination", "dreams"]
+      "hashtags": ["fiction", "imagination", "dreams"],
+      "id": 7
     }
   ]
   
